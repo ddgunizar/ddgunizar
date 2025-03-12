@@ -81,5 +81,3 @@
 - **Research Projects:** Participation in 10 projects, including international collaborations and competitive funding
 
 ---
-
-*Passionate about bridging experimental and computational chemistry with machine learning to drive innovation in digital chemistry.*  
