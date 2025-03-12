@@ -1,13 +1,13 @@
 # 👋 Hello, I'm David Dalmau Ginesta  
-*Experimental & Computational Chemist | Machine Learning Enthusiast in Chemistry*
+*Experimental & Computational Chemist | Data-science in Chemistry*
 
 ---
 
 ## About Me
 
-- 🎓 **PhD Candidate** at [ISQCH (CSIC)-University of Zaragoza](https://www.csic.es/)  
+- 🎓 **PhD** at [ISQCH (CSIC)-University of Zaragoza](https://www.csic.es/)  
   *Thesis: “New luminescent compounds based on amino acid precursors and derivatives”*  
-  (2020 – Present, with a PhD fellowship since April 2022)
+  (2020 – 2025, with a PhD fellowship since April 2022)
 
 - 🔬 **Research Experience:**  
   - **University of Zaragoza:** Project *LTISQCH0108-01* (2021–2022)  
