@@ -69,8 +69,7 @@
 
 ## Contact Me
 
-- 📧 **Email:** [ddalmau@unizar.es](mailto:ddalmau@unizar.es)  
-- 📞 **Phone:** (+34) 636 249 573  
+- 📧 **Email:** [ddalmau@unizar.es](mailto:ddalmau@unizar.es)   
 - 📍 **Address:** C/Pedro Cerbuna 12, 50009 Zaragoza, Spain
 
 ---
