@@ -56,6 +56,15 @@
 
 ---
 
+## Awards & Fellowships
+
+- **2023:** Chemical Structure Association (CSA) Trust Grant  
+- **2022:** PhD fellowship from the Government of Aragon (DGA) for the period 2021–2025  
+- **2020:** Best academic record in the Master's Degree in Molecular Chemistry and Homogeneous Catalysis (2019–2020 academic year)  
+- **2020:** 1st prize for the best Master's thesis in the "RSEQ-Aragón 2020 Final Master's Thesis Awards"
+
+---
+
 ## Skills & Tools
 
 - **Expertise Areas:**  
@@ -87,5 +96,13 @@
 - **Supervision:** 3 undergraduate & 1 master thesis projects; over 30 hours of teaching experience  
 - **Research Projects:** Participation in 10 projects, including international collaborations and competitive funding
 
+
+---
+
+## Presentations & Conferences
+
+1. **D. Dalmau, J.V. Alegre, E. Urriolabeitia. "ROBERT: Bridging the Gap between Machine Learning and Chemistry".**  
+   *Presentación oral.* ESPA 2024. Tarragona, España. Junio 3-7, 2024.  
+   [![Imagen del póster](https://unizares-my.sharepoint.com/:p:/r/personal/ddalmau_unizar_es/_layouts/15/Doc.aspx?sourcedoc=%7BBEC2CC9A-B946-456E-ABA9-6B2FE8C5C704%7D&file=David%20Dalmau_%20ESPA2024.pptx&action=edit&mobileredirect=true)]
 
 ---
