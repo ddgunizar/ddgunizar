@@ -102,7 +102,6 @@
 ## Presentations & Conferences
 
 1. **D. Dalmau, J.V. Alegre, E. Urriolabeitia. "ROBERT: Bridging the Gap between Machine Learning and Chemistry".**  
-   *Presentación oral.* ESPA 2024. Tarragona, España. Junio 3-7, 2024.  
-   (https://unizares-my.sharepoint.com/:p:/g/personal/ddalmau_unizar_es/EZrMwr5GuW5Fq6lrL-jFxwQB_GQ0HTFom2KDBJtFiEjpUA)
+   *Oral presentation* ESPA 2024. Tarragona, Spain. June 3-7, 2024.  
 
 ---
