@@ -10,7 +10,7 @@
 ## About Me
 
 - 🧪 **Postdoctoral Researcher** at [Sigman Lab](https://www.sigmanlab.com/) & [The Alegre Group](https://thealegregroup.com/)  
-  *Currently working on applying data-science and automation to catalytic chemical reactions*
+  *Currently working on automating data science tools for catalytic chemical reactions*
 
 - 🎓 **PhD** at [ISQCH (CSIC)-University of Zaragoza](http://www.isqch.unizar-csic.es/ISQCHportal/controladorInicio.do?metodo=Inicio)  
   *Thesis: “New luminescent compounds based on amino acid precursors and derivatives”*  
@@ -68,9 +68,9 @@
   - **Programming:** Python (with Jupyter, Pandas, NumPy, etc.)
 
 - **Languages:**  
-  - Spanish 🇪🇸 (native)  
-  - Catalan 🇨🇦 (native)  
-  - English 🇬🇧 (intermediate)
+  - Spanish (native)  
+  - Catalan (native)  
+  - English (intermediate)
 
 ---
 
