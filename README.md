@@ -9,6 +9,9 @@
 
 ## About Me
 
+- 🧪 **Postdoctoral Researcher** at [Sigman Lab](https://www.sigmanlab.com/) & [The Alegre Group](https://thealegregroup.com/)  
+  *Currently working on applying data-science and automation to catalytic chemical reactions*
+
 - 🎓 **PhD** at [ISQCH (CSIC)-University of Zaragoza](http://www.isqch.unizar-csic.es/ISQCHportal/controladorInicio.do?metodo=Inicio)  
   *Thesis: “New luminescent compounds based on amino acid precursors and derivatives”*  
   (2020 – 2025, Gobierno de Aragón PhD fellowship)
@@ -37,17 +40,17 @@
 
 ## Selected Publications
 
-- **Data-Driven Analysis of Ni-Catalyzed Semihydrogenations of Alkynes**  
-  *Adv. Synth. Catal, 2025. (Accepted manuscript)*
-
-- **Different Patterns of Pd-Promoted C–H Bond Activation in (Z)-4-Hetarylidene-5(4H)-oxazolones**  
-  *Inorganics, 2024, 12, 271.*
+- **ROBERT: Bridging the Gap Between Machine Learning and Chemistry**  
+  *WIREs Comput Mol Sci, 2024, 14: e1733.*
 
 - **Integrating Digital Chemistry within the Broader Chemistry Community**  
   *Trends in Chemistry, 2024, 6 (8), 459–469.*
 
-- **Orthopalladated Imidazolones and Thiazolones: Synthesis, Photophysical Properties and Photochemical Reactivity**  
-  *Dalton Trans. 2024, 53, 8948-8957.*
+- **Fluorescence Amplification of Unsaturated Oxazolones Using Palladium: Photophysical and Computational Studies**  
+  *Inorg. Chem., 2023, 62 (25), 9792–9806.*
+
+- **Data-Driven Analysis of Ni-Catalyzed Semihydrogenations of Alkynes**  
+  *Adv. Synth. Catal., 2025, e202401444.*
 
 > For a complete list of my publications, check out my [ORCID](https://orcid.org/0000-0002-2506-6546).
 
@@ -81,7 +84,8 @@
 ## Additional Experience
 
 - **Conferences:** 7 oral presentations & 7 poster sessions  
-- **Supervision:** 3 undergraduate projects; over 20 hours of teaching experience  
+- **Supervision:** 3 undergraduate & 1 master thesis projects; over 30 hours of teaching experience  
 - **Research Projects:** Participation in 10 projects, including international collaborations and competitive funding
+
 
 ---
