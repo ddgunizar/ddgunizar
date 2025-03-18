@@ -1,13 +1,17 @@
-# 👋 Hello, I'm David Dalmau Ginesta  
+# 👋 Hello, I'm David Dalmau Ginesta
+
 *Experimental & Computational Chemist | Data-science in Chemistry*
+
+- **Codirector and Professor at the [CAMLC Workshop](https://camlcworkshop.github.io/)**  
+  *I actively participate as codirector and instructor at this international workshop, promoting advanced methodologies in machine learning and automation in chemistry.*
 
 ---
 
 ## About Me
 
-- 🎓 **PhD** at [ISQCH (CSIC)-University of Zaragoza](https://www.csic.es/)  
+- 🎓 **PhD** at [ISQCH (CSIC)-University of Zaragoza](http://www.isqch.unizar-csic.es/ISQCHportal/controladorInicio.do?metodo=Inicio)  
   *Thesis: “New luminescent compounds based on amino acid precursors and derivatives”*  
-  (2020 – 2025, with a PhD fellowship since April 2022)
+  (2020 – 2025, Gobierno de Aragón PhD fellowship)
 
 - 🔬 **Research Experience:**  
   - **University of Zaragoza:** Project *LTISQCH0108-01* (2021–2022)  
@@ -69,7 +73,7 @@
 
 ## Contact Me
 
-- 📧 **Email:** [ddalmau@unizar.es](mailto:ddalmau@unizar.es)   
+- 📧 **Email:** [ddalmau@unizar.es](mailto:ddalmau@unizar.es)  
 - 📍 **Address:** C/Pedro Cerbuna 12, 50009 Zaragoza, Spain
 
 ---
