@@ -3,6 +3,7 @@
 *Experimental & Computational Chemist | Data Science in Chemistry*
 
 [![Website](https://img.shields.io/badge/Website-thealegregroup.com-blue)](http://www.thealegregroup.com)
+[![GoogleScholar](https://img.shields.io/badge/GoogleScholar-DavidDalmauGinesta-blue)](https://scholar.google.com/citations?user=3hcCobcAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DavidDalmauGinesta-blue)](https://www.linkedin.com/in/david-dalmau-ginesta-003258105/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2506--6546-green)](https://orcid.org/0000-0002-2506-6546)
 
