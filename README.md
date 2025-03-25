@@ -63,7 +63,7 @@
 1. **"ROBERT: Bridging the Gap between Machine Learning and Chemistry"**  
    *Oral presentation* ESPA 2024, Tarragona, Spain. June 3-7, 2024.
 
-   [![Poster](https://github.com/ddgunizar/Images/blob/main/Screenshot%202025-03-25%20095924.png)]
+   <img src="https://github.com/ddgunizar/Images/blob/main/Screenshot%202025-03-25%20095924.png" alt="Poster" width="300"/>
 
 ---
 
