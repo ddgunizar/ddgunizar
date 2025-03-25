@@ -1,44 +1,48 @@
 # 👋 Hello, I'm David Dalmau Ginesta
 
-*Experimental & Computational Chemist | Data-science in Chemistry*
+*Experimental & Computational Chemist | Data Science in Chemistry*
 
-- **Codirector and Professor at the [CAMLC Workshop](https://camlcworkshop.github.io/)**  
-  *I actively participate as codirector and instructor at this international workshop, promoting advanced methodologies in machine learning and automation in chemistry.*
+[![Website](https://img.shields.io/badge/Website-thealegregroup.com-blue)](http://www.thealegregroup.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DavidDalmauGinesta-blue)](https://www.linkedin.com/in/david-dalmau-ginesta-003258105/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2506--6546-green)](https://orcid.org/0000-0002-2506-6546)
 
 ---
 
 ## About Me
 
 - 🧪 **Postdoctoral Researcher** at [Sigman Lab](https://www.sigmanlab.com/) & [The Alegre Group](https://thealegregroup.com/)  
-  *Currently working on automating data science tools for catalytic chemical reactions*
+  *Automating data science tools for catalytic chemical reactions.*
 
-- 🎓 **PhD** at [ISQCH (CSIC)-University of Zaragoza](http://www.isqch.unizar-csic.es/ISQCHportal/controladorInicio.do?metodo=Inicio)  
-  *Thesis: “New luminescent compounds based on amino acid precursors and derivatives”*  
-  (2020 – 2025, Gobierno de Aragón PhD fellowship)
+- 🎓 **PhD in Chemistry** at [ISQCH (CSIC)-University of Zaragoza](http://www.isqch.unizar-csic.es/)  
+  *"New luminescent compounds based on amino acid precursors and derivatives" (2020 – 2025, Gobierno de Aragón PhD fellowship).*
 
-- 🔬 **Research Experience:**  
-  - **University of Zaragoza:** Project *LTISQCH0108-01* (2021–2022)  
-    *Synthesis of amino acids and derivatives and study of their applications.*  
-  - **CSIC:** Sustainable processes for the synthesis of new amino acids (2020–2021)
-
-- 📚 **Academic Background:**  
-  - **M.Sc. in Molecular Chemistry and Homogeneous Catalysis** – University of Zaragoza (2019–2020)  
-  - **B.Sc. in Chemistry** – University of Zaragoza (2015–2019)
+- 👨‍🏫 **Codirector & Professor** at [CAMLC Workshop](https://camlcworkshop.github.io/)  
+  *Promoting advanced methodologies in machine learning and automation in chemistry.*
 
 ---
 
-## Projects & Software Development
+## 🛠 Skills & Tools
 
-- **[ROBERT](https://robert.readthedocs.io/en/latest/):**  
-  Refiner and Optimizer of existing regression tools.  
-  *Main developer of automated machine learning protocols for chemical studies.*
+### 💻 **Computational & Machine Learning**
+- **Machine Learning in Chemistry**: Predictive modeling, reaction optimization.
+- **Automation**: Python workflows for DFT calculations and chemical descriptor extraction.
+- **Data Science**: Big Data analysis & visualization (Matplotlib, Seaborn, Plotly).
 
-- **[AQME](https://aqme.readthedocs.io/):**  
-  Developer of the **QDESCP** module for automating chemical descriptor generation.
+### 🔧 **Software & Libraries**
+- **Computational Chemistry**: Gaussian, ORCA, GoodVibes, RDKit, PyMOL, Avogadro, OBabel, CREST.
+- **Programming**: Python (Pandas, NumPy, Scikit-learn, GPyTorch), Jupyter Notebooks.
+- **Version Control**: GitHub, Git, LaTeX, Markdown, Overleaf.
 
 ---
 
-## Selected Publications
+## 🚀 Projects
+
+- **[ROBERT](https://robert.readthedocs.io/en/latest/)** – *Automated ML for chemistry.*
+- **[AQME](https://aqme.readthedocs.io/)** – *QDESCP module for chemical descriptor automation.*
+
+---
+
+## 📜 Selected Publications
 
 - **[ROBERT: Bridging the Gap Between Machine Learning and Chemistry](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1733)**  
   *WIREs Comput Mol Sci, 2024, 14: e1733.*
@@ -46,40 +50,42 @@
 - **[Integrating Digital Chemistry within the Broader Chemistry Community](https://www.cell.com/trends/chemistry/abstract/S2589-5974(24)00117-5)**  
   *Trends in Chemistry, 2024, 6 (8), 459–469.*
 
-- **[Fluorescence Amplification of Unsaturated Oxazolones Using Palladium: Photophysical and Computational Studies](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.3c00601)**  
+- **[Fluorescence Amplification of Unsaturated Oxazolones Using Palladium](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.3c00601)**  
   *Inorg. Chem., 2023, 62 (25), 9792–9806.*
 
-- **[Data-Driven Analysis of Ni-Catalyzed Semihydrogenations of Alkynes](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adsc.202401444)**  
-  *Adv. Synth. Catal., 2025, e202401444.*
-
-> For a complete list of my publications, check out my [ORCID](https://orcid.org/0000-0002-2506-6546).
+📖 *Full list available on* **[ORCID](https://orcid.org/0000-0002-2506-6546)**.
 
 ---
 
-## Awards & Fellowships
+## 🎤 Presentations & Conferences
 
-- **2023:** Chemical Structure Association (CSA) Trust Grant  
-- **2022:** PhD fellowship from the Government of Aragon (DGA) for the period 2021–2025  
-- **2020:** Best academic record in the Master's Degree in Molecular Chemistry and Homogeneous Catalysis (2019–2020 academic year)  
-- **2020:** 1st prize for the best Master's thesis in the "RSEQ-Aragón 2020 Final Master's Thesis Awards"
+1. **"ROBERT: Bridging the Gap between Machine Learning and Chemistry"**  
+   *Oral presentation* ESPA 2024, Tarragona, Spain. June 3-7, 2024.
 
 ---
 
-## Skills & Tools
+## 🏆 Awards & Fellowships
 
-- **Expertise Areas:**  
-  - Machine Learning applied to Chemistry  
-  - Organometallic Chemistry & Photophysics  
-  - Computational Chemistry (DFT, TD-DFT, etc.)
+- **2023:** 🥇 Chemical Structure Association (CSA) Trust Grant  
+- **2022:** 🏅 PhD fellowship from the Government of Aragon (DGA) for the period 2021–2025  
+- **2020:** 🥇 Best academic record in the Master's Degree in Molecular Chemistry and Homogeneous Catalysis (2019–2020 academic year)  
+- **2020:** 🏅 1st prize for the best Master's thesis in the "RSEQ-Aragón 2020 Final Master's Thesis Awards"
 
-- **Software & Programming:**  
-  - **Chemistry Software:** Gaussian, ORCA, Origin, MestReNova, PyMol, Photoshop  
-  - **Programming:** Python (with Jupyter, Pandas, NumPy, etc.)
+---
 
-- **Languages:**  
-  - Spanish (native)  
-  - Catalan (native)  
-  - English (intermediate)
+## 🎯 Professional Expectations
+
+- 🚀 **Current Stage & Future Goals**
+
+I am at a stage where I am integrating machine learning and automation into chemical research, streamlining data-driven workflows for reaction optimization. My main goal is to bridge the gap between computational methodologies and experimental chemistry, making advanced tools more accessible to the community.
+
+- 🌐 **Long-term Vision**
+
+I aspire to continue developing innovative computational tools for chemistry while mentoring young researchers in digital chemistry and automation. I aim to contribute to the evolution of data-driven methodologies in catalysis and photophysics.
+
+- 💡 **Teaching & Collaboration**
+
+I am passionate about scientific communication and interdisciplinary collaboration. I hope to expand my involvement in educational initiatives such as workshops and training programs to equip researchers with the necessary skills for the digital transformation of chemistry.
 
 ---
 
@@ -87,21 +93,5 @@
 
 - 📧 **Email:** [ddalmau@unizar.es](mailto:ddalmau@unizar.es)  
 - 📍 **Address:** C/Pedro Cerbuna 12, 50009 Zaragoza, Spain
-
----
-
-## Additional Experience
-
-- **Conferences:** 7 oral presentations & 7 poster sessions  
-- **Supervision:** 3 undergraduate & 1 master thesis projects; over 30 hours of teaching experience  
-- **Research Projects:** Participation in 10 projects, including international collaborations and competitive funding
-
-
----
-
-## Presentations & Conferences
-
-1. **D. Dalmau, J.V. Alegre, E. Urriolabeitia. "ROBERT: Bridging the Gap between Machine Learning and Chemistry".**  
-   *Oral presentation* ESPA 2024. Tarragona, Spain. June 3-7, 2024.  
 
 ---
