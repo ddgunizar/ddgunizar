@@ -43,13 +43,13 @@
 - **[ROBERT: Bridging the Gap Between Machine Learning and Chemistry](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1733)**  
   *WIREs Comput Mol Sci, 2024, 14: e1733.*
 
-- **Integrating Digital Chemistry within the Broader Chemistry Community**  
+- **[Integrating Digital Chemistry within the Broader Chemistry Community](https://www.cell.com/trends/chemistry/abstract/S2589-5974(24)00117-5)**  
   *Trends in Chemistry, 2024, 6 (8), 459–469.*
 
-- **Fluorescence Amplification of Unsaturated Oxazolones Using Palladium: Photophysical and Computational Studies**  
+- **[Fluorescence Amplification of Unsaturated Oxazolones Using Palladium: Photophysical and Computational Studies](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.3c00601)**  
   *Inorg. Chem., 2023, 62 (25), 9792–9806.*
 
-- **Data-Driven Analysis of Ni-Catalyzed Semihydrogenations of Alkynes**  
+- **[Data-Driven Analysis of Ni-Catalyzed Semihydrogenations of Alkynes](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adsc.202401444)**  
   *Adv. Synth. Catal., 2025, e202401444.*
 
 > For a complete list of my publications, check out my [ORCID](https://orcid.org/0000-0002-2506-6546).
