@@ -39,7 +39,7 @@
 ## 🚀 Projects
 
 - **[ROBERT](https://robert.readthedocs.io/en/latest/)** – *Automated ML for chemistry.*
-- 
+   
   <div align="justify">
      <em>
   When I first embarked on the journey of developing ROBERT, I had absolutely no experience in Python. Coming from an experimental chemistry background, I was an absolute beginner in the realm of programming. My co-director, Juan V. Alegre Requena, introduced me to this new world and encouraged me to explore beyond traditional experimental methods. Starting from zero in Python, I quickly found myself overwhelmed by the ambitious scope of the project, yet every challenge became a stepping stone in my journey towards creating ROBERT. In the early stages, every line of code felt like a challenge. I leaned heavily on resources like Stack Overflow and YouTube tutorials, committing countless errors along the way. Each mistake, though frustrating at times, became a stepping stone that gradually built my programming skills. The process was far from linear; it was a cycle of trial, error, and continuous learning. Looking back now, with the perspective of the knowledge I’ve gained over time, I realize that I might have approached certain challenges differently. However, it was through these very mistakes that I learned the intricacies of Python and machine learning, ultimately enabling me to create ROBERT. I am immensely proud of what ROBERT has evolved into—a tool that not only automates ML processes for chemistry but also aims to be accessible to users with little to no prior experience. I remain deeply involved in the project, continuously working to enhance its usability so that anyone, regardless of their technical background, can apply machine learning effortlessly in their studies.
