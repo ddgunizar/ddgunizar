@@ -31,8 +31,8 @@
 
 ### 🔧 **Software & Libraries**
 - **Computational Chemistry**: Gaussian, ORCA, GoodVibes, RDKit, PyMOL, Avogadro, OBabel, CREST.
-- **Programming**: Python (Pandas, NumPy, Scikit-learn, GPyTorch), Jupyter Notebooks.
-- **Version Control**: GitHub, Git, LaTeX, Markdown, Overleaf.
+- **Programming**: Python (Pandas, NumPy, Scikit-learn, BoTorch), Jupyter Notebooks.
+- **Version Control**: GitHub, Git.
 
 ---
 
@@ -58,8 +58,8 @@
 - **[Integrating Digital Chemistry within the Broader Chemistry Community](https://www.cell.com/trends/chemistry/abstract/S2589-5974(24)00117-5)**  
   *Trends in Chemistry, 2024, 6 (8), 459–469.*
 
-- **[Fluorescence Amplification of Unsaturated Oxazolones Using Palladium](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.3c00601)**  
-  *Inorg. Chem., 2023, 62 (25), 9792–9806.*
+- **[Machine Learning Workflows beyond Linear Models in Low-Data Regimes](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d5sc00996k)**  
+  *Chem. Sci. 2025. https://doi.org/10.1039/D5SC00996K.*
 
 📖 *Full list available on* **[ORCID](https://orcid.org/0000-0002-2506-6546)**.
 
