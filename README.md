@@ -76,6 +76,7 @@
 
 ## 🏆 Awards & Fellowships
 
+- **2025:** 🏅 GEQC-RSEQ Award for methodological developments in Computational Chemistry for “ROBERT: Bridging the Gap Between Machine Learning and Chemistry”
 - **2023:** 🥇 Chemical Structure Association (CSA) Trust Grant  
 - **2022:** 🏅 PhD fellowship from the Government of Aragon (DGA) for the period 2021–2025  
 - **2020:** 🥇 Best academic record in the Master's Degree in Molecular Chemistry and Homogeneous Catalysis (2019–2020 academic year)  
