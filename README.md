@@ -11,7 +11,7 @@
 
 ## About Me
 
-- 🧪 **Postdoctoral Researcher** at [Sigman Lab](https://www.sigmanlab.com/) & [The Alegre Group](https://thealegregroup.com/)  
+- 🧪 **Postdoctoral Researcher** at [The Alegre Group](https://thealegregroup.com/) & [Sigman Lab](https://www.sigmanlab.com/)
   *Automating data science tools for catalytic chemical reactions.*
 
 - 🎓 **PhD in Chemistry** at [ISQCH (CSIC)-University of Zaragoza](http://www.isqch.unizar-csic.es/)  
